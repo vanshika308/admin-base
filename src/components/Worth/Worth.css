@@ -1,0 +1,14 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  h2,
+  h3 {
+    margin: 0; /* Optional: Remove default margins for h2 and h3 */
+  }
+  
